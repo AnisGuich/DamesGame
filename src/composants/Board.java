@@ -123,4 +123,5 @@ public class Board {
 		return id == WHITE_DAME || id == BLACK_DAME;
 	}
 
+	/*Akram Gay */
 }
